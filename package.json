@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vdmpdvkn.github.io/agence-digitale-film",
+  "homepage": "https://GoitStudentsWorks.github.io/js_71_vdmpdvkn",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /agence-digitale-film/"
+    "build": "parcel build src/*.html --public-url /js_71_vdmpdvkn/"
   },
   "repository": {
     "type": "git",
